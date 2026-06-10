@@ -1,4 +1,4 @@
-# 
+# Mis à jour Letta (MemGPT) extensions. Avec pipelines de données et mémoire contextuelle — optimisé pour des performances et une efficacité maximales.
 
 
 
